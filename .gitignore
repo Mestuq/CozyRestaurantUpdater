@@ -1,0 +1,18 @@
+# Prerequisites
+*.o
+
+# Clickteam Export Files
+*.dll
+*.mfx
+*.sft
+*.dat
+
+# Executables
+*.exe
+*.app
+
+# Blender
+*.blend1
+*.fbx
+*.db
+*.zip

@@ -1,2 +1,2 @@
 Release Edition
-abc
+https://github.com/Mestuq/CozyRestroomUpdater/releases/download/Update/tested.zip
