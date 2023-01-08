@@ -1,2 +1,4 @@
+Release 2
+https://github.com/Mestuq/CozyRestroomUpdater/releases/download/Update2/tested2.zip
 Release Edition
 https://github.com/Mestuq/CozyRestroomUpdater/releases/download/Update/tested.zip
